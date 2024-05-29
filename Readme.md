@@ -2,6 +2,7 @@
 
 - Download Code
 - open in vs code
+- setup .env like demo.env file
 - run this command (one time in a project)
   ```
   npm install
